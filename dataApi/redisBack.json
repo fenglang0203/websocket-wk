@@ -1,0 +1,11 @@
+{
+    "code": 0,
+    "data":{
+        "msg": "",
+        "data": "redis commad bakc!",
+        "dbId": 1
+    },
+    "param":{},
+    "eventType":1,
+    "event":"redis:command"
+}
