@@ -1,0 +1,12 @@
+{
+    "resourceId": "biz23017851",
+    "sessionId": "4d84ea0c-990d-4eda-a26f-c1b5b49c98dc",
+    "param": {
+        "sid": "4d84ea0c-990d-4eda-a26f-c1b5b49c98dc",
+        "userId": 436168931,
+        "userNick": "ctest151",
+        "parentId": 436168931
+    },
+    "eventType": 0,
+    "event": "ws:heartbeat"
+}

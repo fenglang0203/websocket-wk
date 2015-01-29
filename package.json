@@ -1,0 +1,14 @@
+{
+  "name": "socket",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "faye-websocket": "^0.7.2"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  }
+}
